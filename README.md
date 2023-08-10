@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @elixfycod
+- 👀 I’m interested in Electronic and Programming
+- 🌱 I’m currently learning CS50 and programming
+- 💞️ I’m looking to collaborate on electronic and coding
+- 📫 How to contact me by email: elixfycod@gmail.com
